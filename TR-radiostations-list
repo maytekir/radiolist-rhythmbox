@@ -1,0 +1,29 @@
+<entry type="iradio">
+<title>Borusan Klasik</title>
+<location>http://27783.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC</location>
+</entry>
+
+<entry type="iradio">
+<title>İTÜ Radyosu Jazz/Blues</title>
+<location>http://160.75.86.29:8082/</location>
+</entry>
+
+<entry type="iradio">
+<title>İTÜ Radyosu Klasik</title>
+<location>http://eskiweb.radyo.itu.edu.tr:8097/;</location>
+</entry>
+
+<entry type="iradio">
+<title>İTÜ Radyosu Rock</title>
+<location>http://160.75.86.29:8095/</location>
+</entry>
+
+<entry type="iradio">
+<title>Radyo Eksen 96.2</title>
+<location>http://eksenwmp.radyotvonline.com/;stream.mp3</location>
+</entry>
+
+<entry type="iradio">
+<title>TRT Radyo 3</title>
+<location>http://rd-trtradyo3.medya.trt.com.tr/master.m3u8</location>
+</entry>
