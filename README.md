@@ -1,5 +1,5 @@
 # radiolist-rhythmbox
-Radio channel entries for Rhythmbox player.
+Radio channel entries for Rhythmbox player with SomaFM stations and some Turkish radio stations.
 
 Online radio stations entry lists with all SomaFM stations and some Turkish radio stations based on my personal taste for Rhythmbox player which i made it for my personal use.
 
