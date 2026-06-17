@@ -1,7 +1,9 @@
 # radiolist-rhythmbox
 
 
-Online radio stations entry lists with all SomaFM stations and some Turkish radio stations based on my personal taste for Rhythmbox player which i made it for my personal use.
+Online radio stations entry lists for Rhythmbox player.
+
+Includes all SomaFM stations and some Turkish radio stations based on my personal taste.
 
 There are two seperate entry list files; one with SomaFM stations only and the other one is the Turkish stations.
 
